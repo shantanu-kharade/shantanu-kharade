@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Kharade</h1>
-<h3 align="center">Full Stack Developer | AI & DS Grad</h3>
-
-- 🔭 I’m currently working on [Docs - clone](https://github.com/shantanu-kharade/live-docs-engine)
-
-- 🌱 I’m currently learning **NextJs, Typescript**
-
-- 📫 How to reach me **shantanu.kharade27@gmail.com**
+<h3 align="center">Software Development Engineer</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WKCkdeEsTd6UBJ8t_d9il5RX5fdSAiiF/view?usp=sharing](https://drive.google.com/file/d/1WKCkdeEsTd6UBJ8t_d9il5RX5fdSAiiF/view?usp=sharing)
-
-- ⚡ Fun fact **I don't just use APIs; I build secure, RBAC enabled backends for them."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
